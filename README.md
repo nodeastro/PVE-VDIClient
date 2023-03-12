@@ -1,3 +1,5 @@
+# Changes to preconfigure for in home devices.
+
 # PVE VDI Client
 
 This project's focus is to create a simple VDI client intended for mass deployment. This VDI client connects directly to Proxmox VE and allows users to connect (via Spice) to any VMs they have permission to access.
